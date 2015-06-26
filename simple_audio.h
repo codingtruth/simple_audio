@@ -31,4 +31,4 @@ void simple_audio_output_request(uint32_t  *data_buffer);
 // Even if data width is 8 bits, each data word is stored as uint32_t.
 void simple_audio_input_notify(uint32_t  *data_buffer);
 
-#ENDIF // SIMPLE_AUDIO_H_INCLUDED
+#endif // SIMPLE_AUDIO_H_INCLUDED
